@@ -10,6 +10,6 @@ Hi, I'm Smarak Mishra, a 18 year old ECE Undergrad at Dayananda Sagar College of
 
 🌱 I’m currently learning DevOps, Machine Learning and Blockchain stuff!.
 
-💬 part from being a passionate coder and a debater, I hold an interest in music and sports.
+💬 Apart from being a passionate coder and a debater, I hold an interest in music and sports.
 
 📫 How to reach me: if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below!
