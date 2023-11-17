@@ -1,4 +1,5 @@
 
+![image](https://github.com/smarak-10/smarak-10/assets/100519354/898b54b8-7028-43d3-b221-bc9cde6da1e7)
 
 
 Hi, I'm Smarak Mishra, a 18 year old ECE Undergrad at Dayananda Sagar College of Engineering, Bengaluru and a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
